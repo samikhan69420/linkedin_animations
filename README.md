@@ -1,6 +1,6 @@
 # LinkedIn Animation
 
-LinkedIn likes popup animation remake inside flutter using the Material design system.
+LinkedIn post reaction popup animation remake inside flutter using the Material design system.
 <table>
     <thead>
         <tr>
